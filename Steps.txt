@@ -1,0 +1,19 @@
+BOUNDARIES
+Original shapefile used irish grid reference
+
+Converted this to standard shapefile format. 
+Then converted to geojson with mapshaper.org
+
+Could overlay the boundaries on leaflet
+
+DATA
+Stats came in PX format
+Need to convert to json used px.js, needs underscore.js
+
+DISPLAY
+Used Crosslet
+
+Update Names in Px file
+Fix garda looping: 
+	Index
+Add county and district etc to data structure
